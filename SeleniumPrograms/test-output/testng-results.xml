@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="19190" started-at="2017-09-19T06:04:48Z" finished-at="2017-09-19T06:05:07Z">
+  <suite name="Default suite" duration-ms="18115" started-at="2017-09-19T07:32:24Z" finished-at="2017-09-19T07:32:42Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="19190" started-at="2017-09-19T06:04:48Z" finished-at="2017-09-19T06:05:07Z">
-      <class name="seleniuminterviewquestions.ScrollFunction">
-        <test-method status="PASS" signature="scrollVerify()[pri:0, instance:seleniuminterviewquestions.ScrollFunction@46d56d67]" name="scrollVerify" duration-ms="19168" started-at="2017-09-19T02:04:48Z" finished-at="2017-09-19T02:05:07Z">
+    <test name="Default test" duration-ms="18115" started-at="2017-09-19T07:32:24Z" finished-at="2017-09-19T07:32:42Z">
+      <class name="seleniuminterviewquestions.VerifyPriceFilter">
+        <test-method status="PASS" signature="verifyPriceFilter()[pri:0, instance:seleniuminterviewquestions.VerifyPriceFilter@46d56d67]" name="verifyPriceFilter" duration-ms="18100" started-at="2017-09-19T03:32:24Z" finished-at="2017-09-19T03:32:42Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- scrollVerify -->
-      </class> <!-- seleniuminterviewquestions.ScrollFunction -->
+        </test-method> <!-- verifyPriceFilter -->
+      </class> <!-- seleniuminterviewquestions.VerifyPriceFilter -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
