@@ -25,7 +25,7 @@ public class Practice {
 		driver.get("https://www.facebook.com/");
 		driver.manage().window().maximize();
 		driver.findElement(By.id("email")).sendKeys("rockstargrv@gmail.com");
-		driver.findElement(By.id("pass")).sendKeys("Rockst@r33");
+		driver.findElement(By.id("pass")).sendKeys("");
 		driver.findElement(By.cssSelector("input[value = 'Log In']")).click();
 		
 	}
